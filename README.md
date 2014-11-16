@@ -1,2 +1,2 @@
-FlatUIColorsPalette
+Flat UI Colors Palette
 ===================
