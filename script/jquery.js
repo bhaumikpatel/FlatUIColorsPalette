@@ -24,7 +24,6 @@ function hexc(colorval) {
 
 function smoothScrollTo(hash, t) { // two params
     var targetOffset = $(hash).offset().top;
-    console.log(targetOffset);
     $("html,body").animate({
         scrollTop: targetOffset - offsetHeight
     }, 700, function () {
