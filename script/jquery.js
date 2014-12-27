@@ -23,12 +23,14 @@ function hexc(colorval) {
 }
 
 function smoothScrollTo(hash, t) { // two params
-    $("body,html").animate({
-        scrollTop: $(hash).offset().top - offsetHeight
-    }, 500, function () {
+    var targetOffset = $(hash).offset().top;
+    console.log(targetOffset);
+    $("html,body").animate({
+        scrollTop: targetOffset - offsetHeight
+    }, 700, function () {
         var tmp = t.id; // hold the id
         t.id = '';      // remove it so we don't jump
-        location.hash = hash;
+        window.location.hash = '#!' + hash;
         t.id = tmp;     // now that we didn't jump we can move it back
         if ($(".navbar-toggle").is(":visible") == true)
             $(".navbar-toggle").click();
@@ -42,7 +44,7 @@ $(document).ready(function () {
         $(this).html("<span>" + hexc(x) + "</span>")
     })
     if (location.hash != "") {
-        window.onload = smoothScrollTo(location.hash, $("#flatuicolorsmenu"));
+        window.onload = smoothScrollTo(location.hash.replace(/^#!/, ''), $("#flatuicolorsmenu"));
     }
 
 

@@ -146,8 +146,8 @@ body {padding-top: 70px;padding-bottom:70px;}
 .bittersweet-light {background-color:#FC6E51;}
 .bittersweet {background-color:#E9573F;}
 
-.sunflower-light {background-color:#FFCE54;}
-.sunflower {background-color:#F6BB42;}
+/*.sunflower {background-color:#F6BB42;}
+.sunflower-light {background-color:#FFCE54;}*/
 
 .grass-light {background-color:#A0D468;}
 .grass {background-color:#8CC152;}
@@ -185,6 +185,24 @@ body {padding-top: 70px;padding-bottom:70px;}
 .ios-6 {background-color:#4CD964;}
 .ios-7 {background-color:#FF3B30;}
 .ios-8 {background-color:#8E8E93;}
+.ios-9 {background-color:#36A6D6;}
+.ios-10 {background-color:#5752D0;}
+.ios-11 {background-color:#C7C7CC;}
+.ios-12 {background-color:#BDBEC2;}
+
+/* Android */
+.android-1 {background-color:#33B5E5;}
+.android-2 {background-color:#AA66CC;}
+.android-3 {background-color:#99CC00;}
+.android-4 {background-color:#FFBB33;}
+.android-5 {background-color:#FF4444;}
+.android-6 {background-color:#656D78;}
+.android-7 {background-color:#0099CC;}
+.android-8 {background-color:#9933CC;}
+.android-9 {background-color:#669900;}
+.android-10 {background-color:#FF8800;}
+.android-11 {background-color:#CC0000;}
+.android-12 {background-color:#474D5D;}
 
 /* Website Color Inspiration */
 /* Two Color Inspiration */
@@ -811,5 +829,174 @@ body {padding-top: 70px;padding-bottom:70px;}
 .five-color-inspiration-604{background-color:#333333;}
 .five-color-inspiration-605{background-color:#333333;}
 
+
+/* Six Color Inspiration */
+.six-color-inspiration-11{background-color:#3A1F18;}
+.six-color-inspiration-12{background-color:#DDDEE0;}
+.six-color-inspiration-13{background-color:#D2B358;}
+.six-color-inspiration-14{background-color:#ABC353;}
+.six-color-inspiration-15{background-color:#4DB75B;}
+.six-color-inspiration-16{background-color:#166E3B;}
+
+.six-color-inspiration-21{background-color:#CC5153;}
+.six-color-inspiration-22{background-color:#662126;}
+.six-color-inspiration-23{background-color:#011219;}
+.six-color-inspiration-24{background-color:#022E2F;}
+.six-color-inspiration-25{background-color:#F0E2BB;}
+.six-color-inspiration-26{background-color:#E9B58D;}
+
+.six-color-inspiration-31{background-color:#569F74;}
+.six-color-inspiration-32{background-color:#6BFF91;}
+.six-color-inspiration-33{background-color:#12BE76;}
+.six-color-inspiration-34{background-color:#1D5339;}
+.six-color-inspiration-35{background-color:#73CEBD;}
+.six-color-inspiration-36{background-color:#2B2A26;}
+
+.six-color-inspiration-41{background-color:#5B2839;}
+.six-color-inspiration-42{background-color:#DBBEDC;}
+.six-color-inspiration-43{background-color:#CDB0AA;}
+.six-color-inspiration-44{background-color:#977A5A;}
+.six-color-inspiration-45{background-color:#4B204B;}
+.six-color-inspiration-46{background-color:#20102B;}
+
+.six-color-inspiration-51{background-color:#FB2604;}
+.six-color-inspiration-52{background-color:#C80E01;}
+.six-color-inspiration-53{background-color:#6A181E;}
+.six-color-inspiration-54{background-color:#FEEAC7;} .six-color-inspiration-54 span { color:#999; }
+.six-color-inspiration-55{background-color:#B8BAB7;}
+.six-color-inspiration-56{background-color:#9EA0B5;}
+
+.six-color-inspiration-61{background-color:#F2B8A4;}
+.six-color-inspiration-62{background-color:#D2AE3C;}
+.six-color-inspiration-63{background-color:#989141;}
+.six-color-inspiration-64{background-color:#3E273B;}
+.six-color-inspiration-65{background-color:#525C68;}
+.six-color-inspiration-66{background-color:#B3C89F;}
+
+.six-color-inspiration-71{background-color:#E0C23C;}
+.six-color-inspiration-72{background-color:#343F07;}
+.six-color-inspiration-73{background-color:#783D11;}
+.six-color-inspiration-74{background-color:#A73F36;}
+.six-color-inspiration-75{background-color:#E25625;}
+.six-color-inspiration-76{background-color:#E0AE17;}
+
+.six-color-inspiration-81{background-color:#2C040D;}
+.six-color-inspiration-82{background-color:#2A040F;}
+.six-color-inspiration-83{background-color:#250007;}
+.six-color-inspiration-84{background-color:#664349;}
+.six-color-inspiration-85{background-color:#734351;}
+.six-color-inspiration-86{background-color:#EAC5F8;}
+
+.six-color-inspiration-91{background-color:#FF711B;}
+.six-color-inspiration-92{background-color:#EF9350;}
+.six-color-inspiration-93{background-color:#EDBD75;}
+.six-color-inspiration-94{background-color:#D7C7B7;}
+.six-color-inspiration-95{background-color:#1B1A15;}
+.six-color-inspiration-96{background-color:#3D371F;}
+
+.six-color-inspiration-101{background-color:#9C8553;} .six-color-inspiration-101 span { color:#999; }
+.six-color-inspiration-102{background-color:#FEF3B3;}
+.six-color-inspiration-103{background-color:#E8C67E;}
+.six-color-inspiration-104{background-color:#ABC04B;}
+.six-color-inspiration-105{background-color:#573E06;}
+.six-color-inspiration-106{background-color:#4C2804;}
+
+.six-color-inspiration-111{background-color:#FFD2FF;}
+.six-color-inspiration-112{background-color:#C78674;}
+.six-color-inspiration-113{background-color:#7C2C45;}
+.six-color-inspiration-114{background-color:#671E49;}
+.six-color-inspiration-115{background-color:#590455;}
+.six-color-inspiration-116{background-color:#A69FFE;}
+
+.six-color-inspiration-121{background-color:#63565F;}
+.six-color-inspiration-122{background-color:#CCC096;}
+.six-color-inspiration-123{background-color:#FFB298;}
+.six-color-inspiration-124{background-color:#EDA735;}
+.six-color-inspiration-125{background-color:#181B3A;}
+.six-color-inspiration-126{background-color:#1F2734;}
+
+.six-color-inspiration-131{background-color:#EC5662;}
+.six-color-inspiration-132{background-color:#D8A69F;}
+.six-color-inspiration-133{background-color:#C2F9D1;}
+.six-color-inspiration-134{background-color:#4B7A58;}
+.six-color-inspiration-135{background-color:#2C3D2B;}
+.six-color-inspiration-136{background-color:#4A3C33;}
+
+.six-color-inspiration-141{background-color:#C749CE;}
+.six-color-inspiration-142{background-color:#FF72B4;}
+.six-color-inspiration-143{background-color:#FFD0A6;}
+.six-color-inspiration-144{background-color:#FFE5D6;}
+.six-color-inspiration-145{background-color:#4C2F89;}
+.six-color-inspiration-146{background-color:#D7BDEA;}
+
+.six-color-inspiration-151{background-color:#FFFFB9;} .six-color-inspiration-151 span { color:#999; }
+.six-color-inspiration-152{background-color:#542616;}
+.six-color-inspiration-153{background-color:#6C3532;}
+.six-color-inspiration-154{background-color:#7F5046;}
+.six-color-inspiration-155{background-color:#A59385;}
+.six-color-inspiration-156{background-color:#D1DDAB;}
+
+.six-color-inspiration-161{background-color:#B4C5BB;}
+.six-color-inspiration-162{background-color:#FF5F85;}
+.six-color-inspiration-163{background-color:#DD2F52;}
+.six-color-inspiration-164{background-color:#3E1A24;}
+.six-color-inspiration-165{background-color:#201C1D;}
+.six-color-inspiration-166{background-color:#434E48;}
+
+.six-color-inspiration-171{background-color:#001E19;}
+.six-color-inspiration-172{background-color:#155861;}
+.six-color-inspiration-173{background-color:#3E8CB2;}
+.six-color-inspiration-174{background-color:#003DA7;}
+.six-color-inspiration-175{background-color:#11316A;}
+.six-color-inspiration-176{background-color:#113160;}
+
+.six-color-inspiration-181{background-color:#49888F;}
+.six-color-inspiration-182{background-color:#ACFFC7;}
+.six-color-inspiration-183{background-color:#E8E9C7;}
+.six-color-inspiration-184{background-color:#C9DD62;}
+.six-color-inspiration-185{background-color:#8DC064;}
+.six-color-inspiration-186{background-color:#074A5A;}
+
+.six-color-inspiration-191{background-color:#3E0E0E;}
+.six-color-inspiration-192{background-color:#852519;}
+.six-color-inspiration-193{background-color:#B4243F;}
+.six-color-inspiration-194{background-color:#FD4A2C;}
+.six-color-inspiration-195{background-color:#FF9E1F;}
+.six-color-inspiration-196{background-color:#FEB546;}
+
+.six-color-inspiration-201{background-color:#101F18;}
+.six-color-inspiration-202{background-color:#080D10;}
+.six-color-inspiration-203{background-color:#425E62;}
+.six-color-inspiration-204{background-color:#C5C5C5;}
+.six-color-inspiration-205{background-color:#889D8E;}
+.six-color-inspiration-206{background-color:#6B8A78;}
+
+.six-color-inspiration-211{background-color:#56944B;}
+.six-color-inspiration-212{background-color:#287551;}
+.six-color-inspiration-213{background-color:#001547;}
+.six-color-inspiration-214{background-color:#00457B;}
+.six-color-inspiration-215{background-color:#3EAAB4;}
+.six-color-inspiration-216{background-color:#6F9DB4;}
+
+.six-color-inspiration-221{background-color:#FF512C;}
+.six-color-inspiration-222{background-color:#FFCF60;}
+.six-color-inspiration-223{background-color:#FFF48E;}
+.six-color-inspiration-224{background-color:#B67525;}
+.six-color-inspiration-225{background-color:#8C3A02;}
+.six-color-inspiration-226{background-color:#B53906;}
+
+.six-color-inspiration-231{background-color:#7AD3C1;}
+.six-color-inspiration-232{background-color:#7FF1CF;}
+.six-color-inspiration-233{background-color:#A5FECE;}
+.six-color-inspiration-234{background-color:#122124;}
+.six-color-inspiration-235{background-color:#324856;}
+.six-color-inspiration-236{background-color:#518B99;}
+
+.six-color-inspiration-241{background-color:#6C1710;}
+.six-color-inspiration-242{background-color:#1E223F;}
+.six-color-inspiration-243{background-color:#EFFFFF;} .six-color-inspiration-243 span { color:#999; }
+.six-color-inspiration-244{background-color:#5ACFF2;}
+.six-color-inspiration-245{background-color:#105CBE;}
+.six-color-inspiration-246{background-color:#C12E1E;}
 
 @media (max-width: 768px) { .color-box span { font-size: 1.1em; padding-left: 0em;} }
