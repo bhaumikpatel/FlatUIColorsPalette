@@ -3,7 +3,6 @@ CACHE MANIFEST
 # 2014-12-27:v1
 
 CACHE:
-/
 /script/jquery-1.8.3.min.js
 /script/bootstrap.min.js
 /script/modernizr.min.js
